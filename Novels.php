@@ -115,14 +115,14 @@ color: white;
 
 
 <right>  <div class="topnav">
-    <a class="active" href="index.html"><h1>الرئيسيه</a></h1>
-    <a class="active" href="islamic.html"><h1>كتب اسلاميه</a></h1>
-    <a class="active" href="Medicine.html"><h1>كتب الطب</a></h1>
-    <a class="active" href="engineering.html"><h1>كتب هندسه</a></h1>
-    <a class="active" href="low.html"><h1>كتب قانون</a></h1>
-    <a class="active" href="mankind.html"><h1>كتب تنميه بشريه</a></h1>
-    <a class="active" href="art.html"><h1>كتب ادب</a></h1>
-    <a class="active" href="computer.html"><h1>كتب حاسوب</a></h1>
+    <a class="active" href="index.php"><h1>الرئيسيه</a></h1>
+    <a class="active" href="islamic.php"><h1>كتب اسلاميه</a></h1>
+    <a class="active" href="Medicine.php"><h1>كتب الطب</a></h1>
+    <a class="active" href="engineering.php"><h1>كتب هندسه</a></h1>
+    <a class="active" href="low.php"><h1>كتب قانون</a></h1>
+    <a class="active" href="mankind.php"><h1>كتب تنميه بشريه</a></h1>
+    <a class="active" href="art.php"><h1>كتب ادب</a></h1>
+    <a class="active" href="computer.php"><h1>كتب حاسوب</a></h1>
    
     <a class="active" href="1.html"><h1>المصممين</a></h1>
     </div> </right>
